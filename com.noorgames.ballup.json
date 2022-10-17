@@ -1,1 +1,1 @@
-{"IOSConfig":{"AffectOnVersions":["0.6.1","0.6.6"],"IsEnabled":true},"AndroidConfig":{"AffectOnVersions":["0.6.0.1"],"IsEnabled":true}}
+{"IOSConfig":{"AffectOnVersions":["0.6.1","0.6.15"],"IsEnabled":true},"AndroidConfig":{"AffectOnVersions":["0.6.0.1"],"IsEnabled":false}}
